@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<project>
+    <parent>
+        <artifactId>picocash</artifactId>
+        <groupId>picocash</groupId>
+        <version>2.0</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>picocash</groupId>
+    <artifactId>picocash-datamodel</artifactId>
+    <name>picocash-datamodel</name>
+    <version>2.0</version>
+    <url>http://maven.apache.org</url>
+    <dependencies>
+    </dependencies>
+</project>
